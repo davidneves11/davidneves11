@@ -1,15 +1,18 @@
-## Olá, eu sou o David Neves, criador de conteúdo para a área de dados porém tenho experiência em linguagens que envolvem as áreas de front-end e back-end.
+## Olá, eu sou o David Neves, criador de conteúdo para a área de dados, tendo também experiência nas áreas de front-end e back-end.
+
+
 <div align="center">
   <a href="https://github.com/davidneves11">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidneves11&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidneves11&layout=compact&langs_count=7&theme=algolia"/>
 </div>
+  
+<!--  Ícones -->
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="David-PowerBI" height="45" width="40" src="https://www.gabo.de/wp-content/uploads/2020/12/Power-BI_256x256.png">
   <img align="center" alt="David-Tableau" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg">
   <img align="center" alt="David-Qlik" height="30" width="30" src="https://www.fitanalytics.com.br/wp-content/uploads/2019/04/qlik-q.png">
   <img align="center" alt="David-Microstrategy" height="30" width="30" src="https://pbs.twimg.com/profile_images/1450161344053981195/CP78dmGz_400x400.png">
-<!--   <img align="center" alt="David-PowerBI" height="30" width="40" src=""> -->
   <img align="center" alt="David-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="David-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
   <img align="center" alt="David-MySQL" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
