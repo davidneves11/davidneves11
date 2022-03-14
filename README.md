@@ -1,5 +1,6 @@
-## Olá, eu sou o David Neves, criador de conteúdo para a área de dados, tendo também experiência nas áreas de front-end e back-end.
+<h1 align="center"> Olá, eu sou o David Neves, criador de conteúdo para a área de dados! </h1>
 
+<br>
 
 <div align="center">
   <a href="https://github.com/davidneves11">
@@ -26,7 +27,7 @@
 </div>
   
 ##
- 
+<br>
 <div align="center"> 
   <a href = "mailto:davidneves@id.uff.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/david-neves-alura/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
