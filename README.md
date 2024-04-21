@@ -13,7 +13,6 @@
   <img align="center" alt="David-PowerBI" height="45" width="40" src="https://www.gabo.de/wp-content/uploads/2020/12/Power-BI_256x256.png">
   <img align="center" alt="David-Tableau" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg">
   <img align="center" alt="David-Qlik" height="30" width="30" src="https://www.fitanalytics.com.br/wp-content/uploads/2019/04/qlik-q.png">
-  <img align="center" alt="David-Microstrategy" height="30" width="30" src="https://pbs.twimg.com/profile_images/1450161344053981195/CP78dmGz_400x400.png">
   <img align="center" alt="David-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="David-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
   <img align="center" alt="David-MySQL" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
